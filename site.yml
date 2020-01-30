@@ -6,4 +6,5 @@
   become_method: sudo
 
   roles:
-    - ansible-testing
+    - elastic.elasticsearch
+    - geerlingguy.kibana 
