@@ -47,11 +47,7 @@ galaxy_info:
     # NOTE: A tag is limited to a single word comprised of alphanumeric characters.
     #       Maximum 20 tags per role.
 
-dependencies:
-  - src: https://github.com/elastic/ansible-elasticsearch.git
-    scm: git
-    version: master
-    name: elastic.elasticsearch
+dependencies: []
   # List your role dependencies here, one per line. Be sure to remove the '[]' above,
   # if you add dependencies to this list.
   
